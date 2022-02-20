@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/10/16 23:52:54.000.854,C:\Users\Public\Documents\Embarcadero\Plugin\SynEdit\Packages\SynEdit_RXE4.dproj=C:\Users\Public\Documents\Embarcadero\Plugin\SynEdit\Packages\SynEdit_RXE7.dproj</Transaction>
+    <Transaction>2014/10/17 00:38:55.428,=C:\Users\Public\Documents\Embarcadero\Plugin\SynEdit\Source\SynHighlighterLua.pas</Transaction>
+    <Transaction>2014/10/17 00:48:10.900,C:\Users\Public\Documents\Embarcadero\Plugin\SynEdit\Source\SynHighlighterLua.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
